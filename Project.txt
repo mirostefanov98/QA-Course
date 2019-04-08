@@ -1,3 +1,5 @@
 Online Store 
 
 We have Sorting bug!!!
+
+We fixed the bug.
